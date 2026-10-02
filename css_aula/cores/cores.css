@@ -1,0 +1,23 @@
+/* formas de implementar cores no css */
+
+.cor1{
+    color: aqua;
+}
+
+/* segunda abordagem é pelo hexadecimal das cores */
+
+.cor2{
+    color: #ff0000;
+}
+
+/* terceira abordagem é pelo RGB */
+
+.cor3{
+    color: rgb(0, 244, 16);
+}
+
+/* quarta abordagem é pelo RGBA (Red, Green, Blue, Alpha) */
+
+.cor4{
+    color: rgba(242, 3, 255, 0.75)
+}
